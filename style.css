@@ -1,0 +1,20 @@
+p {
+    color: rgba(90, 94, 200, 0.63);
+}
+h1 {
+    /* color - цвет текста */
+    color: blue;
+}
+.box-1 {
+    /* цвет заднего фона */
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+}
+.box-2 {
+    /* width - ширина */
+    width: 450px;
+    height: 300px;
+    /* цвет заднего фона */
+    background-color: aqua;
+}
