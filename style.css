@@ -1,20 +1,16 @@
-p {
-    color: rgba(90, 94, 200, 0.63);
-}
-h1 {
-    /* color - цвет текста */
-    color: blue;
-}
-.box-1 {
-    /* цвет заднего фона */
-    background-color: blue;
-    width: 300px;
-    height: 300px;
-}
-.box-2 {
-    /* width - ширина */
-    width: 450px;
-    height: 300px;
-    /* цвет заднего фона */
+.left_menu {
+    width: 500px;
+    height: 500px;
     background-color: aqua;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+.description {
+    width: 700px;
+    height: 500px;
+    background-color: blueviolet;
+}
+.container {
+    display: flex;
 }
